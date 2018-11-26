@@ -1,0 +1,30 @@
+@agrotools.onmicrosoft.com
+Glob@lOffice
+_________________________________________
+ISO - FTP
+SENHAS - INFRA
+USER - TI
+LICENCAS - INFRA DOC/REN
+_________________________________________
+Gabriel_silva_AGT
+c9I(hJj@^wf0m5xR
+_________________________________________
+
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+_________________________________________
+Agrotools!2018
+_________________________________________
+
+C:\ProgramData 
+
+C:\Users\AgroTools\AppData   OU %appdata%
+
+* entrar nas 3 pastas e deletar tudo
+
+%userprofile% 
+
+* deletar as pastas do software
+
+_________________________________________

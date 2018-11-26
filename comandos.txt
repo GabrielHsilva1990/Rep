@@ -1,0 +1,20 @@
+cd
+
+cd origin/
+
+git init 
+
+git remote add origin git@github.com:gabsferreira/postsdoblog.git 
+
+( git remote add origin http://IP/path/to/repository )
+
+git add *
+
+git commit -m "mensagem"
+
+git push -u origin master  
+_______________________________________________
+
+git checkout "arquivo"           - recuperar o arquivo 
+
+git status        
